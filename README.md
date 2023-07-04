@@ -1,3 +1,8 @@
+#Preview
+<img width="960" alt="image" src="https://github.com/FakespideY/weather-app/assets/95515582/2608f6d2-8b2b-42e7-9a6e-8f90e26469de">
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
